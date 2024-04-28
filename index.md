@@ -2,10 +2,10 @@
 data:
   libraryCategories: []
   verificationCategories:
-  - name: test
+  - name: test/aoj
     pages:
     - icon: ':heavy_check_mark:'
-      path: test/example.test.cpp
-      title: test/example.test.cpp
+      path: test/aoj/alds1_4_b.test.cpp
+      title: test/aoj/alds1_4_b.test.cpp
 layout: toppage
 ---
