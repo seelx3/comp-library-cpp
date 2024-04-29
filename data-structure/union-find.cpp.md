@@ -1,14 +1,14 @@
 ---
 data:
   _extendedDependsOn: []
-  _extendedRequiredBy:
-  - icon: ':warning:'
-    path: test/library-checker/unionfind.cpp
-    title: test/library-checker/unionfind.cpp
-  _extendedVerifiedWith: []
+  _extendedRequiredBy: []
+  _extendedVerifiedWith:
+  - icon: ':heavy_check_mark:'
+    path: test/library-checker/unionfind.test.cpp
+    title: test/library-checker/unionfind.test.cpp
   _isVerificationFailed: false
   _pathExtension: cpp
-  _verificationStatusIcon: ':warning:'
+  _verificationStatusIcon: ':heavy_check_mark:'
   attributes:
     links: []
   bundledCode: "#line 1 \"data-structure/union-find.cpp\"\n\n#include <bits/stdc++.h>\n\
@@ -34,11 +34,11 @@ data:
   dependsOn: []
   isVerificationFile: false
   path: data-structure/union-find.cpp
-  requiredBy:
-  - test/library-checker/unionfind.cpp
+  requiredBy: []
   timestamp: '2024-04-29 15:34:06+09:00'
-  verificationStatus: LIBRARY_NO_TESTS
-  verifiedWith: []
+  verificationStatus: LIBRARY_ALL_AC
+  verifiedWith:
+  - test/library-checker/unionfind.test.cpp
 documentation_of: data-structure/union-find.cpp
 layout: document
 redirect_from:
