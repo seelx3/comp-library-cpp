@@ -1,4 +1,5 @@
 {
 "test/aoj/alds1-4-b.test.cpp": "2024-04-29 15:34:06 +0900",
-"test/library-checker/aplusb.test.cpp": "2024-04-29 02:10:51 +0900"
+"test/library-checker/aplusb.test.cpp": "2024-04-29 02:10:51 +0900",
+"test/library-checker/unionfind.test.cpp": "2024-04-29 15:46:04 +0900"
 }
